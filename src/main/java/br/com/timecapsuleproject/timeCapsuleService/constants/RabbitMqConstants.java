@@ -7,7 +7,7 @@ public class RabbitMqConstants {
     public static final String QUEUE_USER_INVITATION = "timecapsule.user_invitation";
     public static final String QUEUE_USER_TURN_ADMIN = "timecapsule.user_turn_admin";
     public static final String QUEUE_USER_LEAVE_TRIGGER = "timecapsule.user_leave.trigger";
-    public static final String QUEUE_USER_LEAVE_NOTIFICATION = "timecapsule.user_leave.trigger";
+    public static final String QUEUE_USER_LEAVE_NOTIFICATION = "timecapsule.user_leave.notification";
     public static final String QUEUE_CAPSULE_OPENED = "timecapsule.capsule_opened";
     public static final String QUEUE_CAPSULE_CREATION_TRIGGER = "timecapsule.capsule_creation.trigger";
     public static final String QUEUE_CAPSULE_CREATION_NOTIFICATION = "timecapsule.capsule_creation.notification";
