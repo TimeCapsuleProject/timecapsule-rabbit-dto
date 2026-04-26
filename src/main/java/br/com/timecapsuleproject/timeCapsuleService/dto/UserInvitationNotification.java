@@ -11,6 +11,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class UserInvitationNotification {
     private String timeCapsuleId;
+    private String timeCapsuleName;
     private String invitedUserEmail;
     private String inviterUserId;
 }

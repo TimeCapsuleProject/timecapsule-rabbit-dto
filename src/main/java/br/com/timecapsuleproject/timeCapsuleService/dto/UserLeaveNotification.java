@@ -11,6 +11,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class UserLeaveNotification {
     private String timeCapsuleId;
+    private String timeCapsuleName;
     private String userId;
     private String userEmail;
 }

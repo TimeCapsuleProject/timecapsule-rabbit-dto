@@ -14,6 +14,7 @@ import java.time.LocalDateTime;
 public class NewMessageNotification {
     private String messageId;
     private String timeCapsuleId;
+    private String timeCapsuleName;
     private String senderEmail;
     private String senderUsername;
     private LocalDateTime creationDate;

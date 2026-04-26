@@ -16,8 +16,3 @@ Como usar
   <artifactId>timecapsule-rabbit-dtos</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 </dependency>
-
-Observações
-- Os DTOs usam Lombok. Ative o annotation processing no seu IDE.
-- Mantive o mesmo package usado no serviço principal: `br.com.timecapsuleproject.timeCapsuleService.dto` para facilitar a substituição.
-
